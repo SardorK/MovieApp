@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AA8CD8A8-BA77-41FA-B501-2F254BAC0262"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2DC34086-B0BE-4D77-B165-BCF7A6B05726"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieAPI/MovieLoader/InfoLoad.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "getListMovies(listType:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D65A48E7-41AE-420C-8798-4C4654E12007"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieAPI/MovieLoader/PopularListMovieLoader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "getListMovies(listType:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B88EBFBE-40AC-4E6D-B31C-2E493CC4ACDB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieAPI/MovieLoader/PopularListMovieLoader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "getListMovies(listType:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B88EBFBE-40AC-4E6D-B31C-2E493CC4ACDB - a9eead131515292"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MovieAPI.PopularListMovieLoader.getListMovies(listType: MovieAPI.ListTypes, completion: (MovieAPI.ListMovieLoaderResult) -&gt; ()) -&gt; ()"
+                  moduleName = "MovieAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user2/Desktop/MovieAPI/MovieAPI/MovieLoader/PopularListMovieLoader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "B88EBFBE-40AC-4E6D-B31C-2E493CC4ACDB - a9eead131515292"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MovieAPI.PopularListMovieLoader.getListMovies(listType: MovieAPI.ListTypes, completion: (MovieAPI.ListMovieLoaderResult) -&gt; ()) -&gt; ()"
+                  moduleName = "MovieAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user2/Desktop/MovieAPI/MovieAPI/MovieLoader/PopularListMovieLoader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "458">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
